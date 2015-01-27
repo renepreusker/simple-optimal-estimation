@@ -255,7 +255,7 @@ def my_optimizer(
 
     '''
 
-    ### put some curry to the meet
+    ### put some curry to the meat
     ###
     # function to root-find
     def fnc(x):
